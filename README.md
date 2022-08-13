@@ -1,2 +1,7 @@
-# javaee
-Java Web - Agenda de contatos
+# Objetivo
+
+- Projeto website Agenda de contatos
+
+
+## Tecnologias usadas
+
